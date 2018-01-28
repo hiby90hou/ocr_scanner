@@ -1,0 +1,7 @@
+{
+  "RESULT_TOPIC": "chang_ocr_test",
+  "RESULT_BUCKET": "chang_ocr_text_bucket",
+  "TRANSLATE_TOPIC": "chang_ocr_translate",
+  "TRANSLATE": true,
+  "TO_LANG": ["en", "fr", "es", "ja", "ru"]
+}
